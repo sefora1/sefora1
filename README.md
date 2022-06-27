@@ -1,4 +1,8 @@
-### Hi there 👋
+# olá
+-me chamo séfora
+-estou aprendendo sobre programação
+-sou estudante, estudando para o vestibular
+-meu instagram é: @sefora__gomes
 
 <!--
 **sefora1/sefora1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

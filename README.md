@@ -1,7 +1,10 @@
 # olá
 -me chamo séfora
+
 -estou aprendendo sobre programação
+
 -sou estudante, estudando para o vestibular
+
 -meu instagram é: @sefora__gomes
 
 <!--
